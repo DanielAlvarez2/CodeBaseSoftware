@@ -1,0 +1,8 @@
+footer{
+    font-family: sans-serif;
+    font-size:12px;
+    position: fixed;
+    bottom: 5px;
+    width:100%;
+    text-align: center;
+}
