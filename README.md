@@ -19,4 +19,9 @@ pic overlapping into text half
     black text w/white shadow
     white text w/black shadow
     alternate color/white background
+alternate Vertical/Horizontal pics
+
+ask for peer reviews of design/layout at meetups
+
+
 
