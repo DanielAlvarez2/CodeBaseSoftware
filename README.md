@@ -23,5 +23,9 @@ alternate Vertical/Horizontal pics
 
 ask for peer reviews of design/layout at meetups
 
+add google analytics
 
+use css border-radius to create an irregular 
+colored blob begind logo that animates to 
+change shape randomly
 
