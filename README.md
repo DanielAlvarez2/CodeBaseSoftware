@@ -29,3 +29,18 @@ use css border-radius to create an irregular
 colored blob begind logo that animates to 
 change shape randomly
 
+
+
+*********************************************
+
+NAMA PROJECT:
+
+beverage quiz
+could not study vintages because
+wine list and wine bible vintages
+were out of sync
+my program solves this problem
+
+
+
+
