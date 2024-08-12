@@ -28,7 +28,9 @@ add google analytics
 use css border-radius to create an irregular 
 colored blob begind logo that animates to 
 change shape randomly
-
+blob w gradient?
+letters INSIDE blob have different color
+as letters OUTSIDE blob?
 
 
 *********************************************
